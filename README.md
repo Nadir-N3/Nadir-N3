@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nadir-N3&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:22c55e&desc=Front-End%20Enthusiast%20•%20Clean%20UI%20•%20Modern%20Web&descAlign=50&descAlignY=65" alt="Banner"/>
 </p>

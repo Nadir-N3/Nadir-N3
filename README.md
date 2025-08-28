@@ -48,12 +48,6 @@
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadir-N3&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
-
----
 
 ## 📈 Activity Graph
 <p align="center">
